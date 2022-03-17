@@ -20,3 +20,5 @@ todo
 | First Image | Second Image | Image Morphing |
 | ------ | ------ | ------ |
 | <img src="Khamenei.jpg" alt="" width="250"/> | <img src="Khomeini.jpg" alt="" width="250"/> | ![Alt Text](output.gif) |
+
+### Image Processing Course Project
