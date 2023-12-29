@@ -10,10 +10,6 @@ on ubuntu with the following command:
 
 `sudo apt-get install -y cmake`
 
-## Project Definition
-
-todo
-
 ## Results
 
 
